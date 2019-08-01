@@ -1,3 +1,4 @@
+# Orange Class
 class Orange
     def initialize
         @juice_available = 100
