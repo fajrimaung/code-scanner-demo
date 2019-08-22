@@ -1,3 +1,4 @@
+# Car class
 class Car
     @make
     @@wheels = 4
