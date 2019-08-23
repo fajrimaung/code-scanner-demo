@@ -1,4 +1,4 @@
-# Car class
+# Car class, another comment
 class Car
     @make
     @@wheels = 4
